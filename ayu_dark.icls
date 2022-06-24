@@ -5,13 +5,14 @@
   v0.0.2 - PyCharm Professional 2022.1.3
   v0.0.3 - Android Studio 2021.2.1
   v0.0.4 - Rider 2022.1.2
+  v0.0.5 - GoLand 2022.1.3
 -->
 <scheme name="ayu Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-06-24T15:13:59</property>
-    <property name="ide">Rider</property>
-    <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-06-24T15:14:10</property>
+    <property name="created">2022-06-24T15:58:32</property>
+    <property name="ide">GoLand</property>
+    <property name="ideVersion">2022.1.3.0.0</property>
+    <property name="modified">2022-06-24T15:58:48</property>
     <property name="originalScheme">ayu Dark</property>
   </metaInfo>
   <colors>
@@ -549,6 +550,16 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="DEFAULT_BRACES">
+      <value>
+        <option name="FOREGROUND" value="8a8a87" />
+      </value>
+    </option>
+    <option name="DEFAULT_BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="8a8a87" />
+      </value>
+    </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="59c2ff" />
@@ -664,6 +675,11 @@
         <option name="FOREGROUND" value="d2a6ff" />
       </value>
     </option>
+    <option name="DEFAULT_PARENTHS">
+      <value>
+        <option name="FOREGROUND" value="8a8a87" />
+      </value>
+    </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
         <option name="FOREGROUND" value="f07178" />
@@ -688,7 +704,9 @@
         <option name="FOREGROUND" value="95e6cb" />
       </value>
     </option>
-    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+      <value />
+    </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="95e6cb" />
@@ -840,36 +858,60 @@
       </value>
     </option>
     <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="GO_BUILTIN_CONSTANT">
-      <value>
-        <option name="FOREGROUND" value="e6b673" />
-      </value>
-    </option>
+    <option name="GO_BUILTIN_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
     <option name="GO_BUILTIN_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="f07178" />
       </value>
     </option>
+    <option name="GO_BUILTIN_TYPE_REFERENCE" baseAttributes="DEFAULT_CLASS_REFERENCE" />
+    <option name="GO_BUILTIN_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="d2a6ff" />
+      </value>
+    </option>
+    <option name="GO_COMMENT_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="8a8a87" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_EXPORTED_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="GO_EXPORTED_STRUCT_REFERENCE">
+      <value />
+    </option>
     <option name="GO_FUNCTION_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="fc9867" />
+        <option name="FOREGROUND" value="d2a6ff" />
       </value>
+    </option>
+    <option name="GO_LOCAL_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="GO_LOCAL_STRUCT_REFERENCE">
+      <value />
     </option>
     <option name="GO_METHOD_RECEIVER">
       <value>
         <option name="FOREGROUND" value="fc9867" />
       </value>
     </option>
-    <option name="GO_STRUCT_EXPORTED_MEMBER">
+    <option name="GO_PACKAGE">
       <value>
-        <option name="FOREGROUND" value="39bae6" />
+        <option name="FOREGROUND" value="59c2ff" />
       </value>
     </option>
-    <option name="GO_STRUCT_LOCAL_MEMBER">
+    <option name="GO_PACKAGE_EXPORTED_CONSTANT">
+      <value />
+    </option>
+    <option name="GO_PACKAGE_LOCAL_CONSTANT">
+      <value />
+    </option>
+    <option name="GO_SHADOWING_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="GO_TEMPLATE_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="39bae6" />
+        <option name="FOREGROUND" value="d2a6ff" />
       </value>
     </option>
+    <option name="GO_TYPE_REFERENCE" baseAttributes="DEFAULT_CLASS_REFERENCE" />
     <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
     <option name="HAML_CLASS">
       <value>
@@ -2856,7 +2898,7 @@
         <option name="EFFECT_COLOR" value="6c5980" />
       </value>
     </option>
-        <option name="SPY-JS.EXCEPTION">
+    <option name="SPY-JS.EXCEPTION">
       <value>
         <option name="BACKGROUND" value="58272b" />
         <option name="EFFECT_TYPE" value="2" />
@@ -3181,6 +3223,35 @@
       <value>
         <option name="FOREGROUND" value="d2a6ff" />
       </value>
+    </option>
+    <option name="com.plan9.FLAG">
+      <value>
+        <option name="FOREGROUND" value="39bae6" />
+      </value>
+    </option>
+    <option name="com.plan9.IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="ffb454" />
+      </value>
+    </option>
+    <option name="com.plan9.INSTRUCTION">
+      <value>
+        <option name="FOREGROUND" value="ffb454" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="com.plan9.LABEL">
+      <value>
+        <option name="FOREGROUND" value="39bae6" />
+      </value>
+    </option>
+    <option name="com.plan9.PSEUDO_INSTRUCTION">
+      <value>
+        <option name="FOREGROUND" value="e6b673" />
+      </value>
+    </option>
+    <option name="com.plan9.REGISTER">
+      <value />
     </option>
     <option name="org.rust.TYPE_PARAMETER">
       <value>
