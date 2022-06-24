@@ -1,13 +1,13 @@
 <idea-plugin>
-  <id>color.scheme.ayu Dark</id>
-  <name>ayu Dark Color Scheme</name>
+  <id>color.scheme.ayu-dark-jetbrains</id>
+  <name>ayu Dark for JetBrains</name>
   <version>1.0.0</version>
   <vendor email="rea9lizer@gmail.com" url="https://github.com/qyurila">QriLa</vendor>
 
   <description><![CDATA[
       ayu Dark color scheme for all of your favorite JetBrains IDEs!
 
-Currently supported IDEs:
+Current COMPLETELY supported IDEs:
 - IntelliJ IDEA, Android Studio, PyCharm, WebStorm, Rider, GoLand
 
 More Information:
