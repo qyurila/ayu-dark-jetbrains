@@ -4,13 +4,14 @@
   v0.0.1 - IntelliJ IDEA Ultimate 2022.1.3
   v0.0.2 - PyCharm Professional 2022.1.3
   v0.0.3 - Android Studio 2021.2.1
+  v0.0.4 - Rider 2022.1.2
 -->
 <scheme name="ayu Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-06-24T14:08:43</property>
-    <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">2021.2.1.15</property>
-    <property name="modified">2022-06-24T14:09:09</property>
+    <property name="created">2022-06-24T15:13:59</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2022.1.2.0.0</property>
+    <property name="modified">2022-06-24T15:14:10</property>
     <property name="originalScheme">ayu Dark</property>
   </metaInfo>
   <colors>
@@ -735,6 +736,11 @@
         <option name="FOREGROUND" value="ff8f40" />
       </value>
     </option>
+    <option name="DOCKER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="59c2ff" />
+      </value>
+    </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value />
     </option>
@@ -1095,6 +1101,18 @@
         <option name="FOREGROUND" value="9373a5" />
       </value>
     </option>
+    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
+    <option name="JADE_FILTER_NAME">
+      <value>
+        <option name="FOREGROUND" value="f07178" />
+      </value>
+    </option>
+    <option name="JADE_JS_BLOCK">
+      <value>
+        <option name="FOREGROUND" value="d2a6ff" />
+      </value>
+    </option>
+    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA.IMPORT_PACKAGE">
       <value>
         <option name="FOREGROUND" value="ff8f40" />
@@ -2170,13 +2188,15 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
+        <option name="BACKGROUND" value="1b3a5b" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MATCHED_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="39bae6" />
+        <option name="BACKGROUND" value="1b3a5b" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -2187,6 +2207,36 @@
     <option name="METHOD_CALL_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f07178" />
+      </value>
+    </option>
+    <option name="NG.BANANA_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="e6b673" />
+      </value>
+    </option>
+    <option name="NG.EVENT_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="e6b673" />
+      </value>
+    </option>
+    <option name="NG.EXPANSION_FORM_DELIMITERS">
+      <value>
+        <option name="FOREGROUND" value="f29668" />
+      </value>
+    </option>
+    <option name="NG.PROPERTY_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="e6b673" />
+      </value>
+    </option>
+    <option name="NG.SCRIPT_DELIMITERS">
+      <value>
+        <option name="FOREGROUND" value="f29668" />
+      </value>
+    </option>
+    <option name="NG.TEMPLATE_BINDINGS_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="e6b673" />
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
@@ -2634,14 +2684,9 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="ReSharper.ASP_NET_ATTRIBUTE_NAME">
-      <value>
-        <option name="FOREGROUND" value="f59762" />
-      </value>
-    </option>
     <option name="ReSharper.ASP_NET_BLOCK_TAG">
       <value>
-        <option name="FOREGROUND" value="95e6cb" />
+        <option name="FOREGROUND" value="39bae6" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_COMMENT">
@@ -2682,23 +2727,42 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="ReSharper.ASP_NET_RAZOR_CODE_BLOCK">
-      <value />
-    </option>
-    <option name="ReSharper.ASP_NET_RAZOR_CODE_BLOCK_TAG">
+    <option name="ReSharper.ASP_NET_RUN_AT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="95e6cb" />
       </value>
     </option>
-    <option name="ReSharper.ASP_NET_RUN_AT_ATTRIBUTE">
+    <option name="ReSharper.ASSEMBLY_EXPLORER_ADDITIONAL_INFORMATION">
+      <value />
+    </option>
+    <option name="ReSharper.ASSEMBLY_EXPLORER_INTERNAL_PRIVATE">
       <value>
-        <option name="FOREGROUND" value="ffee99" />
+        <option name="FOREGROUND" value="636a72" />
       </value>
     </option>
-    <option name="ReSharper.DELEGATE_IDENTIFIER">
+    <option name="ReSharper.ASSEMBLY_EXPLORER_METADATA_EMPHASIZED">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="39bae6" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.ASSEMBLY_EXPLORER_METADATA_TOKEN">
+      <value>
+        <option name="FOREGROUND" value="aad94c" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.ASSEMBLY_EXPLORER_METADATA_USAGE">
+      <value>
+        <option name="EFFECT_COLOR" value="bfbdb6" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.ASSEMBLY_EXPLORER_TYPE_ELEMENT">
+      <value>
+        <option name="FOREGROUND" value="d2a6ff" />
       </value>
     </option>
     <option name="ReSharper.ENUM_IDENTIFIER">
@@ -2716,15 +2780,41 @@
         <option name="FOREGROUND" value="c2d94c" />
       </value>
     </option>
+    <option name="ReSharper.FORMAT_STRING_ITEM">
+      <value>
+        <option name="FOREGROUND" value="95e6cb" />
+      </value>
+    </option>
+    <option name="ReSharper.FORMAT_STRING_ITEM_2">
+      <value>
+        <option name="FOREGROUND" value="95e6cb" />
+      </value>
+    </option>
     <option name="ReSharper.HINT">
       <value>
         <option name="EFFECT_COLOR" value="95e6cb" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="ReSharper.IL_INSTRUCTION">
+      <value>
+        <option name="FOREGROUND" value="f07178" />
+      </value>
+    </option>
+    <option name="ReSharper.IL_VIEWER_SYNCHRONIZATION">
+      <value>
+        <option name="BACKGROUND" value="322b3f" />
+      </value>
+    </option>
     <option name="ReSharper.LATE_BOUND_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="c7c7c7" />
+      </value>
+    </option>
+    <option name="ReSharper.MATCHED_FORMAT_STRING_ITEM">
+      <value>
+        <option name="FOREGROUND" value="95e6cb" />
+        <option name="BACKGROUND" value="322b3f" />
       </value>
     </option>
     <option name="ReSharper.MUTABLE_LOCAL_VARIABLE_IDENTIFIER">
@@ -2742,14 +2832,15 @@
         <option name="FOREGROUND" value="ffb454" />
       </value>
     </option>
+    <option name="ReSharper.STRING_ESCAPE_CHARACTER_2" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="ReSharper.STRUCT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="f59762" />
       </value>
     </option>
-    <option name="ReSharper.TYPE_PARAMETER_IDENTIFIER">
+    <option name="ReSharper.T4_DIRECTIVE">
       <value>
-        <option name="FOREGROUND" value="c2d94c" />
+        <option name="FOREGROUND" value="39bae6" />
       </value>
     </option>
     <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
@@ -2951,6 +3042,41 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="UNITY_EXPENSIVE_CAMERA_MAIN_USAGE">
+      <value>
+        <option name="EFFECT_COLOR" value="f26d78" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="UNITY_EXPENSIVE_METHOD_INVOCATION">
+      <value>
+        <option name="EFFECT_COLOR" value="f26d78" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="UNITY_EXPENSIVE_NULL_COMPARISON">
+      <value>
+        <option name="EFFECT_COLOR" value="f26d78" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="UNITY_INEFFICIENT_MULTIDIMENSIONAL_ARRAY_USAGE">
+      <value>
+        <option name="EFFECT_COLOR" value="f26d78" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="UNITY_INEFFICIENT_MULTIPLICATION_ORDER">
+      <value>
+        <option name="EFFECT_COLOR" value="f26d78" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="UNITY_PERFORMANCE_CRITICAL_LINE_MARKER">
+      <value>
+        <option name="BACKGROUND" value="f26d78" />
+      </value>
+    </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d95757" />
@@ -3002,7 +3128,7 @@
     <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="XML_NS_PREFIX">
       <value>
-        <option name="FOREGROUND" value="ffb454" />
+        <option name="FOREGROUND" value="d2a6ff" />
         <option name="BACKGROUND" value="d1017" />
       </value>
     </option>
