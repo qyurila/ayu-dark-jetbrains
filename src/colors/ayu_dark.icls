@@ -1,9 +1,9 @@
 <scheme name="ayu Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-06-24T15:58:32</property>
+    <property name="created">2022-06-29T12:36:51</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.1.3.0.0</property>
-    <property name="modified">2022-06-28T22:28:48</property>
+    <property name="modified">2022-06-29T13:33:10</property>
     <property name="originalScheme">ayu Dark</property>
   </metaInfo>
   <colors>
@@ -93,21 +93,21 @@
     <option name="RECENT_LOCATIONS_SELECTION" value="242936" />
     <option name="RIGHT_MARGIN_COLOR" value="3b404a" />
     <option name="SELECTED_INDENT_GUIDE" value="3b404a" />
-    <option name="SELECTED_TEARLINE_COLOR" value="3b404a" />
+    <option name="SELECTED_TEARLINE_COLOR" value="626875" />
     <option name="SELECTION_BACKGROUND" value="1b3a5b" />
     <option name="SEPARATOR_ABOVE_COLOR" value="131721" />
     <option name="SEPARATOR_BELOW_COLOR" value="131721" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="444b55" />
     <option name="ScrollBar.hoverThumbColor" value="6c738080" />
     <option name="ScrollBar.thumbColor" value="6c738033" />
-    <option name="TEARLINE_COLOR" value="1e222a" />
+    <option name="TEARLINE_COLOR" value="444b55" />
     <option name="TOOLTIP" value="242936" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="565b66" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="86502b" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="7e4147" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="5b7531" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="33698b" />
-    <option name="VISUAL_INDENT_GUIDE" value="1e222a" />
+    <option name="VISUAL_INDENT_GUIDE" value="2a2e36" />
     <option name="WHITESPACES" value="444b55" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="626875" />
   </colors>
@@ -119,17 +119,27 @@
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="ffe052" />
+        <option name="FOREGROUND" value="ffc06e" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="e9a5ff" />
+        <option name="FOREGROUND" value="ff9197" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="3f9aff" />
+        <option name="FOREGROUND" value="59d6ff" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="dfbfff" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="d0ff73" />
       </value>
     </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -848,6 +858,54 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="GIT_TOOLBOX.CHANGED_COUNT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="f07178" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GIT_TOOLBOX.EDITOR_INLINE_BLAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="636a72" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GIT_TOOLBOX.HEAD_TAGS_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="aad94c" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GIT_TOOLBOX.LOCAL_BRANCH_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="59c2ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GIT_TOOLBOX.MASTER_LOCAL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffb454" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GIT_TOOLBOX.MASTER_WITH_REMOTE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ff8f40" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GIT_TOOLBOX.REMOTE_BRANCH_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="95e6cb" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GIT_TOOLBOX.STATUS_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="d2a6ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GO_BUILTIN_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
     <option name="GO_BUILTIN_FUNCTION_CALL">
@@ -1210,7 +1268,8 @@
     </option>
     <option name="JS.THIS_SUPER">
       <value>
-        <option name="FOREGROUND" value="c1c0c0" />
+        <option name="FOREGROUND" value="59c2ff" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.TYPE_ALIAS">
@@ -2642,17 +2701,27 @@
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="ffe052" />
+        <option name="FOREGROUND" value="ffc06e" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="e9a5ff" />
+        <option name="FOREGROUND" value="ff9197" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="3f9aff" />
+        <option name="FOREGROUND" value="59d6ff" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="dfbfff" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="d0ff73" />
       </value>
     </option>
     <option name="RUBY_CVAR">
@@ -2928,32 +2997,52 @@
     <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="ffe052" />
+        <option name="FOREGROUND" value="ffc06e" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="e9a5ff" />
+        <option name="FOREGROUND" value="ff9197" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="3f9aff" />
+        <option name="FOREGROUND" value="59d6ff" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="dfbfff" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="d0ff73" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="ffe052" />
+        <option name="FOREGROUND" value="ffc06e" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="e9a5ff" />
+        <option name="FOREGROUND" value="ff9197" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="3f9aff" />
+        <option name="FOREGROUND" value="59d6ff" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="dfbfff" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="d0ff73" />
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
