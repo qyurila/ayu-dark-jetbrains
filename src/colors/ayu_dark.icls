@@ -1,10 +1,10 @@
-<scheme name="ayu Dark for JetBrains" version="142" parent_scheme="Darcula">
+<scheme name="ayu Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="created">2022-06-24T15:58:32</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.1.3.0.0</property>
-    <property name="modified">2022-06-24T15:58:48</property>
-    <property name="originalScheme">ayu Dark for JetBrains</property>
+    <property name="modified">2022-06-28T22:28:48</property>
+    <property name="originalScheme">ayu Dark</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="7fd962" />

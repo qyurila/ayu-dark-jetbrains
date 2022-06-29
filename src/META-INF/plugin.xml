@@ -1,29 +1,27 @@
 <idea-plugin>
-  <id>color.scheme.ayu-dark-jetbrains</id>
-  <name>ayu Dark for JetBrains</name>
+  <id>color.scheme.ayu-dark-allround</id>
+  <name>ayu Dark Scheme All-Round</name>
   <version>1.0.0</version>
   <vendor email="rea9lizer@gmail.com" url="https://github.com/qyurila">QriLa</vendor>
 
   <description><![CDATA[
-      ayu Dark color scheme for all of your favorite JetBrains IDEs!
-
-Current COMPLETELY supported IDEs:
-- IntelliJ IDEA, Android Studio, PyCharm, WebStorm, Rider, GoLand
-
-More Information:
-https://github.com/qyurila/ayu-dark-jetbrains
+<h1 id="ayu-dark-schome-all-round">ayu Dark Schome All-Round</h1>
+<p>a complete ayu Dark color scheme plugin for all of your favorite languages!</p>
+<p>100% coverage of bundled languages of following IDEs:</p>
+<ul>
+<li>IntelliJ IDEA 2022.1.3</li>
+<li>Android Studio 2021.2.1</li>
+<li>PyCharm 2022.1.3</li>
+<li>WebStorm 2022.1.3</li>
+<li>Rider 2022.1.2</li>
+<li>GoLand 2022.1.3</li>
+</ul>
+<p>More Information on:</p>
+<p><a href="https://github.com/qyurila/ayu-dark-jetbrains">https://github.com/qyurila/ayu-dark-jetbrains</a></p>
     ]]></description>
 
   <change-notes><![CDATA[
-      Initial Release
-
-Optimized IDEs:
-- IntelliJ IDEA 2022.1.3
-- Android Studio 2021.2.1
-- PyCharm 2022.1.3
-- WebStorm 2022.1.3
-- Rider 2022.1.2
-- GoLand 2022.1.3
+Initial Release
     ]]>
   </change-notes>
 
