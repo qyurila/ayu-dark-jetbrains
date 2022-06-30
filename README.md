@@ -10,14 +10,22 @@
 > - [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons)
 > - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
-## Feature
+## Features
+
+A complete ayu Dark color scheme for all of your favorite languages.
+
+- 100% coverage of bundled languages / minor colors in majority of JetBrains IDEs (IntelliJ, WebStorm, Rider etc.)
+- Supports most popular third-party plugins (e.g. Rainbow Brackets)
+- Nearly follows existing schemes of ST4 (official) and VSCode
+
+## Description
 
 While JetBrains IDEs allow for the import and export of color schemes, doing so corrupts some of the color settings for unavailable languages (from other JetBrains IDEs), so you barely can create a single full color scheme file with only that.
 
 So I carefully adjusted the colors in each of the JetBrains IDEs I use and manually merged all of them to make this plugin flawless on multiple IDEs.
 That means, You can use "ayu Dark for JetBrains" on all supported JetBrains IDEs with no single missing color!
 
-## Currently supported languages
+## Currently supported colors
 
 - All bundled languages of:
   - IntelliJ IDEA 2022.1.3
@@ -29,7 +37,7 @@ That means, You can use "ayu Dark for JetBrains" on all supported JetBrains IDEs
 - Rainbow Brackets
 - GitToolBox
 
-## Note
+## Notes
 
 ### The colors are different from on ST4 / VSCode / etc.!
 
