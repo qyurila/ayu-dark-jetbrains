@@ -1,24 +1,21 @@
 <idea-plugin>
   <id>color.scheme.ayu-dark-allround</id>
   <name>ayu Dark Scheme All-Round</name>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <vendor email="rea9lizer@gmail.com" url="https://github.com/qyurila">QriLa</vendor>
 
-  <description><![CDATA[
-<h1 id="ayu-dark-schome-all-round">ayu Dark Schome All-Round</h1>
-<p>a complete ayu Dark color scheme plugin for all of your favorite languages!</p>
-<p>100% coverage of bundled languages of following IDEs:</p>
+  <description>
+<![CDATA[
+A complete ayu Dark color scheme for all of your favorite languages and IDEs.
+<p>Features:
 <ul>
-<li>IntelliJ IDEA 2022.1.3</li>
-<li>Android Studio 2021.2.1</li>
-<li>PyCharm 2022.1.3</li>
-<li>WebStorm 2022.1.3</li>
-<li>Rider 2022.1.2</li>
-<li>GoLand 2022.1.3</li>
+  <li>100% coverage of bundled languages / minor colors in majority of JetBrains IDEs (IntelliJ, WebStorm, Rider etc.)</li>
+  <li>Supports most popular third-party plugins (e.g. Rainbow Brackets)</li>
+  <li>Nearly follows existing schemes of ST4 (official) and VSCode</li>
 </ul>
-<p>More Information on:</p>
-<p><a href="https://github.com/qyurila/ayu-dark-jetbrains">https://github.com/qyurila/ayu-dark-jetbrains</a></p>
-    ]]></description>
+</p>
+]]>
+</description>
 
   <change-notes><![CDATA[
 Initial Release
