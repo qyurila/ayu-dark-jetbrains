@@ -1,25 +1,53 @@
 <idea-plugin>
   <id>color.scheme.ayu-dark-allround</id>
   <name>ayu Dark Scheme All-Round</name>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <vendor email="rea9lizer@gmail.com" url="https://github.com/qyurila">QriLa</vendor>
 
   <description>
-<![CDATA[
-A complete ayu Dark color scheme for all of your favorite languages and IDEs.
-<p>Features:
-<ul>
-  <li>100% coverage of bundled languages / minor colors in majority of JetBrains IDEs (IntelliJ, WebStorm, Rider etc.)</li>
-  <li>Supports most popular third-party plugins (e.g. Rainbow Brackets)</li>
-  <li>Nearly follows existing schemes of ST4 (official) and VSCode</li>
-</ul>
-</p>
-]]>
-</description>
+    <![CDATA[
+    A complete ayu Dark color scheme for all of your favorite languages and IDEs.
+    <br/>
+    <p>Features:
+    <ul>
+      <li>100% coverage of bundled languages / minor colors in majority of JetBrains IDEs (IntelliJ, WebStorm, Rider etc.)</li>
+      <li>Supports most popular third-party plugins (e.g. Rainbow Brackets)</li>
+      <li>Nearly follows existing schemes of ST4 (official) and VSCode</li>
+    </ul>
+    </p>
+  ]]>
+  </description>
 
   <change-notes><![CDATA[
-Initial Release
-    ]]>
+    <h3>1.0.2</h3>
+    <ul>
+      <li>The scheme can now be loaded properly</li>
+      <li>Add plugin icon</li>
+    </ul>
+    <h3>1.0.1</h3>
+    <ul>
+      <li>Add color supports for:
+        <ul>
+          <li><a href="https://plugins.jetbrains.com/plugin/10080-rainbow-brackets">Rainbow Brackets</a></li>
+          <li><a href="https://plugins.jetbrains.com/plugin/7499-gittoolbox">GitToolBox</a></li>
+        </ul>
+      </li>
+      <li>Minor fixes</li>
+    </ul>
+    <h3>1.0.0</h3>
+    <ul>
+      <li>Add color supports for:
+        <ul>
+          <li>IntelliJ IDEA</li>
+          <li>Android Studio</li>
+          <li>PyCharm</li>
+          <li>WebStorm</li>
+          <li>Rider</li>
+          <li>GoLand</li>
+        </ul>
+      </li>
+    </ul>
+  ]]>
   </change-notes>
 
   <idea-version since-build="142.0"/>
