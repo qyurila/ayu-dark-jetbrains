@@ -27,6 +27,6 @@ Initial Release
   <depends>com.intellij.modules.lang</depends>
 
   <extensions defaultExtensionNs="com.intellij">
-    <bundledColorScheme path="/colors/ayu Dark"/>
+    <bundledColorScheme path="/colors/ayu-dark.icls"/>
   </extensions>
 </idea-plugin>
