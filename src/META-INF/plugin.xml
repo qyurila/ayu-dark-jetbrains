@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>color.scheme.ayu-dark-allround</id>
   <name>ayu Dark Scheme All-Round</name>
-  <version>1.0.2</version>
+  <version>1.0.3</version>
   <vendor email="rea9lizer@gmail.com" url="https://github.com/qyurila">QriLa</vendor>
 
   <description>
@@ -19,9 +19,12 @@
   </description>
 
   <change-notes><![CDATA[
+    <h3>1.0.3</h3>
+    <ul>
+      <li>The scheme can now be loaded properly (for real)</li>
+    </ul>
     <h3>1.0.2</h3>
     <ul>
-      <li>The scheme can now be loaded properly</li>
       <li>Add plugin icon</li>
     </ul>
     <h3>1.0.1</h3>
@@ -55,6 +58,6 @@
   <depends>com.intellij.modules.lang</depends>
 
   <extensions defaultExtensionNs="com.intellij">
-    <bundledColorScheme path="/colors/ayu-dark.icls"/>
+    <bundledColorScheme path="/colors/ayu_dark"/>
   </extensions>
 </idea-plugin>
