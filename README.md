@@ -43,7 +43,7 @@ That means, You can use "ayu Dark for JetBrains" on all supported JetBrains IDEs
 
 ayu for [Sublime Text 4](https://github.com/dempfi/ayu) and for [Visual Studio Code](https://github.com/qyurila/ayu-midas-vscode) have a few of different choices.
 One of the biggest difference is the color for numbers.
-ayu for ST4 uses #E6B673 while ayu for VSCode uses #D2A6FF.
+ayu for ST4 uses #E6B673 (light orange) while ayu for VSCode uses #D2A6FF (light purple).
 This plugin follows VSCode one for this aspect, but basically it tries to compromise both schemes as far as possible.
 
 ### Contribute
