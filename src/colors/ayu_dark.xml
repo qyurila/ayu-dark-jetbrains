@@ -2280,8 +2280,9 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="1b3a5b" />
+        <option name="BACKGROUND" value="1e222a" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="444b55" />
       </value>
     </option>
     <option name="MATCHED_TAG_NAME">
