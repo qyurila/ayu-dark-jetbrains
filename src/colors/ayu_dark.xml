@@ -3132,7 +3132,9 @@
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="95e6cb" />
+      </value>
     </option>
     <option name="TS.PRIMITIVE.TYPES">
       <value>
