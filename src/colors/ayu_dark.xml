@@ -761,7 +761,10 @@
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
-      <value />
+      <value>
+        <option name="EFFECT_COLOR" value="939393" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
     </option>
     <option name="EDITORCONFIG_PROPERTY_KEY">
       <value>
@@ -1134,8 +1137,8 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="e6b450" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="EFFECT_COLOR" value="939393" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="INHERITED_METHOD_ATTRIBUTES">
@@ -3058,7 +3061,7 @@
     </option>
     <option name="SUGGESTION">
       <value>
-        <option name="EFFECT_COLOR" value="939393" />
+        <option name="EFFECT_COLOR" value="95e6cb" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
